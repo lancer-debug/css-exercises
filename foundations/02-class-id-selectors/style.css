@@ -1,0 +1,15 @@
+.same-background {
+    background-color: #ffc0cb;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#one {
+    color: blue;
+    font-size: 36px;
+}
+#another {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+#another, .size {
+    font-size: 24px;
+}
